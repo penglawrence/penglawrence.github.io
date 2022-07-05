@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 About me
 ======
-Welcome! I am a Ph.D. student at department of Applied Physics, California Institute of Technology, advised by Prof. Kerry Vahala. I received my B.S. from school of Electronics Engineering and Computer Science, Peking University, China in 2022.
+Welcome! I am a Ph.D. student at [Department of Applied Physics, California Institute of Technology](https://aph.caltech.edu/), advised by [Prof. Kerry Vahala](https://vahala.caltech.edu/). I received my B.S. from [School of Electronics Engineering and Computer Science, Peking University, China](http://eecs.pku.edu.cn/) in 2022.
 
 Research interests
 ======
