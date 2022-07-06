@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering, Peking University, 2018-2022
-* Ph.D in Applied Physics, California Institute of Technology, 2022-present
+* Ph.D. in Applied Physics, California Institute of Technology, 2022-present
 
 Work experience
 ======
