@@ -17,7 +17,7 @@ zzzzzzzzzzzzzzzzzzzzz
 
 Optical frequency combs
 ------
-bbbbbbb
+Optical frequency combs are specialized lasers that act like a ruler for light. In frequency domain, these Nobel Prize-winning devices fill an important technological gap. Optical frequency combs allow scientists to measure and control light waves in the radio-frequency band. With optical frequency combs, technologies that employ microwave frequencies in radio-frequency band — such as atom clocks, communication devices, and computers — are now coherently connected to light waves that oscillate at much higher frequencies in optical band. 
 
 Microwave photonics
 ------
